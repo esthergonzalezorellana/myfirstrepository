@@ -8,3 +8,5 @@ Doing some testing
 
 ## Styles
 **This** is in bold font
+*This* is cursive
+***This*** is everything together
